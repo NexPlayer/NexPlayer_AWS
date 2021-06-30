@@ -1,2 +1,3 @@
 - [NexPlayer with AWS Media Services](/aws.md) 
+- [NexPlayer with AWS Media Services Using Verimatrix](/vermatrix.md) 
 - [Contact Us](https://nexplayersdk.com/contact/) 
